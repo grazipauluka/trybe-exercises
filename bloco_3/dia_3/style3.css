@@ -1,1 +1,3 @@
-p, H1 {text-align:right;}
+p, H1 {text-align:center;}
+
+li:hover {background-color: aquamarine;}

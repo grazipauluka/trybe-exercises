@@ -1,0 +1,4 @@
+
+h3:nth-of-type(1):hover{ border: solid 1px;
+    border-radius: 20px;
+    border-color: blueviolet; }
